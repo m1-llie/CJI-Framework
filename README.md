@@ -1,4 +1,4 @@
-# CJI-Framework (Chinese Jargon Identification Framework)
+# CJI-Framework (Chinese Jargons Identification Framework)
 
  
 
