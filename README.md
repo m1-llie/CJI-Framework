@@ -2,7 +2,7 @@
 
  
 
-This is a code release of paper `Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-Oriented and Linguistic Features` (Under Review).
+This is a code release of paper [`A Novel Framework of Identifying Chinese Jargons for Telegram Underground Markets`](https://ieeexplore.ieee.org/abstract/document/9522221/) (published already) and `Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-Oriented and Linguistic Features` (Under Review).
 
 Our code is composed of four parts.
 
@@ -16,4 +16,4 @@ Our code is composed of four parts.
 
 `JargonIdentification` contains feature calculation and jargon identification. You need to input the TCD and two groups of vectors to get the final result.
 
-We will give more details once the paper is published.
+For the dataset TUMCC we constructed, please refer to the new repository at [m1-llie/TUMCC](https://github.com/m1-llie/TUMCC).
