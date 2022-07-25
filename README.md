@@ -18,3 +18,5 @@ Our code is composed of four parts.
 
 *DATASET*:
 For the dataset *TUMCC* we constructed, please refer to [m1-llie/TUMCC](https://github.com/m1-llie/TUMCC).
+
+All Rights Reserved.
