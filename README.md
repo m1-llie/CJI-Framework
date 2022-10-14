@@ -2,7 +2,7 @@
 
  
 
-This is a code release of paper [`Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-Oriented and Linguistic Features`](https://doi.org/10.1016/j.ipm.2022.103033) ([IP&M](https://www.sciencedirect.com/journal/information-processing-and-management), 2022) and [`A Novel Framework of Identifying Chinese Jargons for Telegram Underground Markets`](http://dx.doi.org/10.1109/ICCCN52240.2021.9522221) ([ICCCN'21](http://www.icccn.org/icccn21/)).
+This is a code release of paper [`Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-Oriented and Linguistic Features`](https://doi.org/10.1016/j.ipm.2022.103033) ([IP&M](https://www.sciencedirect.com/journal/information-processing-and-management), 2022).
 
 Our code is composed of four parts.
 
@@ -15,6 +15,3 @@ Our code is composed of four parts.
 `VectorProjection` Part is an implementation of Vector Projection mentioned in the paper. You can modify parameters in `run.sh` to use the code. This Part requires that you have two pre-trained vectors as the input.
 
 `JargonIdentification` contains feature calculation and jargon identification. You need to input the TCD and two groups of vectors to get the final result.
-
-
-All Rights Reserved.
