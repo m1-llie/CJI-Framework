@@ -32,6 +32,8 @@ Feel free to use it to convince your research!
 
 
 ## Citation
+Thanks for your interest in our paper, please feel free to leave a ⭐️ or cite us through:
+
 ```
 @article{hou2022identification,
   title={Identification of Chinese dark jargons in Telegram underground markets using context-oriented and linguistic features},
